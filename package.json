@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "sass": "^1.66.1",
+    "use-sound": "^4.0.1"
+  }
+}
